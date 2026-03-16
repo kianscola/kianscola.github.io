@@ -77,3 +77,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#index {
+    text-align: center;
+    margin: 40px auto; /* adds space above and below */
+    max-width: 600px;  /* optional: keeps the text from stretching too wide */
+    font-size: 1.1em;  /* optional: makes text a bit bigger */
+    line-height: 1.6;  /* optional: improves readability */
+}
