@@ -1,2 +1,2 @@
 # kianscola.github.io
-website
+a barebones website demonstration that runs through github.io
